@@ -29,7 +29,7 @@ A desktop-based **Airline Reservation System** built using **Java Swing** for th
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/airline-reservation-system.git
+    git clone https://github.com/Abhia2531/Airline-Reservation-System.git
     ```
 
 2. Open the project in NetBeans (or your preferred Java IDE).
