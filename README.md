@@ -1,7 +1,3 @@
-Here’s a well-structured README for your Airline Reservation System built with Java Swing and JDBC. This template includes the essential sections for a good README on GitHub:
-
----
-
 # Airline Reservation System
 
 A desktop-based **Airline Reservation System** built using **Java Swing** for the frontend and **JDBC** for backend database operations. This application allows users to manage flight bookings, passenger details, flight schedules, and more in a user-friendly GUI.
